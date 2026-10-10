@@ -1,21 +1,14 @@
 # Sistem Manajemen Bank: Array vs ArrayList (Java)
 
-Repitori ini berisi program berbasis konsol Java yang mendemonstrasikan perbandingan pengelolaan data menggunakan **Array statis** dan **`ArrayList` dinamis** pada sistem manajemen rekening bank. Proyek ini dibangun dengan menerapkan prinsip modularitas (pemisahan kelas ke dalam beberapa file terpisah).
+Repitori ini berisi program berbasis konsol Java yang mendemonstrasikan perbandingan pengelolaan data menggunakan **Array statis** dan **`ArrayList` dinamis** pada sistem manajemen rekening bank. Proyek ini dibangun dengan menerapkan prinsip modularitas.
 
 ## 🚀 Cara Menjalankan Program (Compile & Run)
-
-Pastikan Anda sudah menginstal **Java Development Kit (JDK)** di komputer Anda.
-
-1. Simpan ketiga file kode (`Bank.java`, `BankDemo.java`, dan `Main.java`) di dalam **satu folder yang sama**.
-
-2. Buka terminal atau Command Prompt, lalu arahkan ke folder tersebut.
-
-3. Kompilasi seluruh file program secara bersamaan dengan perintah:
+Kompilasi seluruh file program secara bersamaan dengan perintah:
    ```bash
    javac Main.java Bank.java BankDemo.java
    ```
 
-4. Jalankan program utama:
+Jalankan program utama:
    ```bash
    java Main
    ```
