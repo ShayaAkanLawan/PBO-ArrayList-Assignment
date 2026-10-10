@@ -1,6 +1,6 @@
-# Sistem Manajemen Bank: Array vs ArrayList (Java)
+# Sistem Manajemen Bank: ArrayList
 
-Repitori ini berisi program berbasis konsol Java yang mendemonstrasikan perbandingan pengelolaan data menggunakan **Array statis** dan **`ArrayList` dinamis** pada sistem manajemen rekening bank. Proyek ini dibangun dengan menerapkan prinsip modularitas.
+Repo ini berisi program yang mendemonstrasikan pengelolaan data menggunakan **Array statis** dan **`ArrayList` dinamis** pada sistem manajemen rekening bank. Proyek ini dibangun dengan menerapkan prinsip modularitas.
 
 ## 🚀 Cara Menjalankan Program (Compile & Run)
 Kompilasi seluruh file program secara bersamaan dengan perintah:
@@ -19,7 +19,7 @@ Jalankan program utama:
 * Atribut privat: `noRekening`, `nama`, dan `balance`.
 * *Constructor* untuk inisialisasi data awal akun.
 * Method transaksi: `deposit()` dan `withdraw()` untuk mengubah saldo secara aman.
-* Kumpulan *getter* untuk mengakses data privat.
+* *getter* untuk mengakses data privat.
 
 ### 2. `BankDemo.java` (Logika & Menu Interaktif)
 * **Array Statis (`daftarAkunArray`)**: Kapasitas tetap (100) dengan penghitung manual `jumlahAkunArray`.
