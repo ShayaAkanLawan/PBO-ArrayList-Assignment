@@ -1,6 +1,6 @@
 # Sistem Manajemen Bank: ArrayList
 
-Repo ini berisi program yang mendemonstrasikan pengelolaan data menggunakan **Array statis** dan **`ArrayList` dinamis** pada sistem manajemen rekening bank. Proyek ini dibangun dengan menerapkan prinsip modularitas.
+Repo ini berisi program yang mendemonstrasikan pengelolaan data menggunakan `**Array statis**` dan **`ArrayList` dinamis** pada sistem manajemen rekening bank. Proyek ini dibangun dengan menerapkan prinsip modularitas.
 
 ## 🚀 Cara Menjalankan Program (Compile & Run)
 Kompilasi seluruh file program secara bersamaan dengan perintah:
