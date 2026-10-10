@@ -30,4 +30,4 @@ Jalankan program utama:
 `jalankanProgram()` dari kelas `BankDemo`.
 
 * **Dinamisme**: Penambahan akun baru ke dalam *list* dilakukan secara fleksibel menggunakan method `.add()` tanpa batasan kapasitas awal.
-* **Pencarian Data**: Memanfaatkan perulangan *for-each* untuk mencocokkan nomor rekening target sebelum melakukan pembaruan saldo.
+* **Pencarian Data**: Memanfaatkan perulangan `for-each` untuk mencocokkan nomor rekening target sebelum melakukan pembaruan saldo.
